@@ -1,2 +1,2 @@
 Joelson texte de conteudo
-gi
+novos textos no arquivo
